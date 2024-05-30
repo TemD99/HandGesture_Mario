@@ -9,4 +9,4 @@ Python 3.7 or higher
 OpenCV
 MediaPipe
 pynput
-Gym Super Mario environment
+
